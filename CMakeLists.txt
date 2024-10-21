@@ -9,3 +9,4 @@ add_subdirectory(extern/googletest)
 enable_testing()
 
 add_subdirectory(hw01-unit-tests)
+add_subdirectory(hw02-abstraction)
